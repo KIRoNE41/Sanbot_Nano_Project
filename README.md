@@ -6,6 +6,6 @@
 
 ros2ws
 |src
-    | my_py_pkg
+    | my_pkg_bringup
     | my_pkg_py
     |custom_msg_srv
